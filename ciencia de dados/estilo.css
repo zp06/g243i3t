@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
-:root {
-    --bg-color:rgb(0, 31, 63);
-    --primary-color:rgb(106, 154, 176);
-    --secondary-color:rgb(234, 216, 177);
-    --font: "Nunito Sans", sans-serif;
+:root{
+    --bg-color: #16423C;
+    --primary-color: #C4DAD2;
+    --secundary-color: #b6d6c6;
+    --font: "Roboto Condensed", sans-serif;
 }
 
 body {
